@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Valdeilson Lima 👋
 
-<!--
-**Valdeilson-lima/Valdeilson-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduado em Gestão da Tecnologia da Informação
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+🚀 Desenvolvedor Full Stack em formação
+📍 Paraíba, Brasil
 
-Here are some ideas to get you started:
+Transformando problemas reais em soluções digitais através da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Minha trajetória profissional começou no varejo, onde desenvolvi habilidades de relacionamento, negociação e foco no cliente.
+
+Hoje aplico essa experiência na área de tecnologia, buscando criar soluções que unam visão de negócio, experiência do usuário e desenvolvimento de software.
+
+
+## 🛠️ Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
