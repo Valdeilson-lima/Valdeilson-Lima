@@ -1,8 +1,11 @@
 # Olá, eu sou Valdeilson Lima 👋
 
 🎓 Graduado em Gestão da Tecnologia da Informação
+
 💻 Estudante de Análise e Desenvolvimento de Sistemas
+
 🚀 Desenvolvedor Full Stack em formação
+
 📍 Paraíba, Brasil
 
 Transformando problemas reais em soluções digitais através da tecnologia.
